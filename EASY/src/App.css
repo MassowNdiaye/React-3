@@ -1,0 +1,41 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* Counter Styling */
+.counter {
+  font-size: 1.6rem;
+  color: #666;
+  margin-top: 2em;
+}
+
+/* Cards Styling */
+.card {
+  padding: 2em;
+}
+
+/* Buttons Styling */
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.8em 1.4em;
+  font-size: 1em;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 1em;
+  margin-left: 20px;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* Instructions Styling */
+.instructions {
+  color: #fff;
+}
