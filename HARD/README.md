@@ -1,16 +1,40 @@
-# React + Vite
+# To-Do List App (React Hooks & React Router)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **To-Do List application** built using **React**, **React Hooks**, and **React Router**.  
+This project demonstrates how to manage state with hooks and navigate between multiple pages.
 
-Currently, two official plugins are available:
+![To-Do App Screenshot](Screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- View task details on a separate page
+- Navigation between pages using React Router
+- Real-time UI updates with React Hooks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
+- React
+- React Hooks (`useState`, `useParams`)
+- React Router DOM
+- JavaScript (ES6+)
+- JSX
+- CSS (separate styling files)
+- Font Awesome (icons)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Installation & Usage
+
+1. Clone the repository  
+   --> git clone git@github.com:MassowNdiaye/React-3.git
+
+2. npm install
+3. npm run dev
+4. Open the app in your browser and start managing your tasks 🚀
+
+

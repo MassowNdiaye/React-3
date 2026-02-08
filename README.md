@@ -22,3 +22,18 @@ This project allows users to search for movies using an external API, view searc
 
 # To-do list App (HARD)
 
+A simple and interactive **To-Do List application** built using **React**, **React Hooks**, and **React Router**.  
+This project demonstrates how to manage state with hooks and navigate between multiple pages.
+
+![To-Do App Screenshot](to-do-list.png)
+
+---
+
+
+## Installation & Usage
+
+1. Clone the repository  
+   --> git clone git@github.com:MassowNdiaye/React-3.git
+   
+2. npm install
+3. npm run dev

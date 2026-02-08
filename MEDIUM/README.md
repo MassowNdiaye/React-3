@@ -29,7 +29,7 @@ This project allows users to search for movies using an external API, view searc
 ## Installation & Usage
 
 1. Clone the repository  
-   -> git clone git@github.com:YourUsername/movie-search-app.git
+   -> git clone git@github.com:MassowNdiaye/React-3.git
 2. npm install
 3. npm run dev 
 4. Open the app in your browser and start searching for movies 🎬🚀

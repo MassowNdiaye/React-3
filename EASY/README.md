@@ -25,7 +25,7 @@ This project demonstrates the basic usage of the `useState` hook to manage state
 
 ## Installation & Usage
 1. Clone the repository  
-    -> git clone git@github.com:MassowNdiaye/Counter-App.git
+    -> git clone git@github.com:MassowNdiaye/React-3.git
 
 2. npm install
 3. npm run dev
