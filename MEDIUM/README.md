@@ -1,16 +1,35 @@
-# React + Vite
+# Movie Search App (React Hooks & React Router)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A movie search application built using **React**, **React Hooks**, and **React Router**.  
+This project allows users to search for movies using an external API, view search results, and navigate to a detailed page for each movie.
 
-Currently, two official plugins are available:
+![Movie Search App Screenshot](Screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
+- Search movies by title
+- Fetch movie data from an external API
+- Display movie search results dynamically
+- View detailed information for each movie
+- Client-side routing with React Router
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
+- React
+- React Hooks (`useState`, `useEffect`)
+- React Router
+- JavaScript (ES6+)
+- CSS
+- Movie API (TMDB API)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Installation & Usage
+
+1. Clone the repository  
+   -> git clone git@github.com:YourUsername/movie-search-app.git
+2. npm install
+3. npm run dev 
+4. Open the app in your browser and start searching for movies 🎬🚀
