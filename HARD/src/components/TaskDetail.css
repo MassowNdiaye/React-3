@@ -1,0 +1,36 @@
+.task-detail {
+  width: 300px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(39, 39, 39);
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
+  margin-top: 10px;
+}
+
+strong {
+  font-size: 18px;
+  color: #1976d2;
+}
+
+a {
+  color: #1976d2;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.icon {
+  margin-right: 5px;
+}
